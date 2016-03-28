@@ -1,2 +1,3 @@
 # hello-world
-initial repository
+Hello,
+just getting started on GitHub
